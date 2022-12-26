@@ -24,4 +24,4 @@ The dataset tracks people killed by law enforcement in the United States and inc
     is_geocoding_exact: Either the place of occurance is exactly available or not
 
 
-A video presentation of the work can be found [here](https://youtu.be/djia-Qbtysg)
+A video presentation of the work can be found [here](https://youtu.be/LLV3-DhtJyA)
